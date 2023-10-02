@@ -1,2 +1,2 @@
 # Tips-Calculator
-Played with the dom edited and append elements directly to the dom. was fun. completed in 15mins
+Played with the DOM edited and append elements directly to the DOM. was fun. completed in 15mins
